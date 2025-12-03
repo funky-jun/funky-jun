@@ -1,6 +1,7 @@
 ## 👨‍💻 About Me
 - 🎓 **전공:** 컴퓨터•인공지능공학부 22th
 - 💡 **관심 분야:** 웹 개발(Frontend/Backend), IOT, 앱 개발 등
+- ⚙️ **기술 스택:** Python, C++, JavaScript, React, Flask, HTML/CSS, Git/GitHub, Notion
 - 🌱 **현재 배우고 있는 것:** 네트워크 프로그래밍, 자료구조, 컴퓨터구조, Git/GitHub 협업, 오픈소스 등
 - 📫 **연락처:** kun4275@naver.com
 

@@ -1,5 +1,5 @@
 ## About Me 👐
-- MinJun Kwon, Pukung National University, Computer Engineering 22th
+- MinJun Kwon, Pukyong National University, Computer Engineering 22th
 - 
 
 <!--

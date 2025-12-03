@@ -79,4 +79,4 @@
 
 ### 🌍 오픈소스 기여 내역
 - Pull Request : https://github.com/yuurmj/public-toilet-datamap/pull/58
-- 기역 내용 : 불필요 파일 삭제 및 파일 구조 피드백
+- 기여여 내용 : 불필요 파일 삭제 및 파일 구조 피드백

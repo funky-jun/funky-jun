@@ -77,7 +77,3 @@
 ### 🔥 Contribution Graph
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=funky-jun&theme=react-dark)
 
----
-
-## ⚙️ GitHub Actions Badge
-![CI](https://github.com/funky-jun/your-repo/actions/workflows/ci.yml/badge.svg)

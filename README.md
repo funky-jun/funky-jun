@@ -11,7 +11,7 @@
 
 ### 🔹 **오늘의 하늘**
 - 📌 **한 줄 설명:** 실시간 날씨정보를 제공하는 웹 서비스
-- 🔗 **GitHub:** [https://github.com/username/project-link](https://github.com/OSS-teamproject-Todays-sky/todays-sky)
+- 🔗 **GitHub:** [https://github.com/OSS-teamproject-Todays-sky/todays-sky](https://github.com/OSS-teamproject-Todays-sky/todays-sky)
 - 🎯 **목적:** 사용자에게 직관적인 날씨 예측 경험 제공  
 - 🧩 **해결하려는 문제:** 기존 앱보다 더 시각적인 UI로 날씨 변화를 표현
   
@@ -21,7 +21,7 @@
 - 💻 **프론트엔드 개발:** 날씨 배경 이미지 구현
 - 🛰️ **백엔드 개발 (Flask):** 데이터 가공, 엔드포인트 개발, Flask 서버 구현
 - 🎨 **디자인:** 날씨별 동적 배경 이미지 제작
-- 📝 **문서 작성:** 리드미, Notion 등 정리
+- 📝 **문서 작성:** README, Notion 등 정리
 
 ---
 

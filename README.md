@@ -79,3 +79,5 @@
 
 ---
 
+## ⚙️ GitHub Actions Badge
+![CI](https://github.com/funky-jun/your-repo/actions/workflows/ci.yml/badge.svg)

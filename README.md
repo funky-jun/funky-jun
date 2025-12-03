@@ -28,22 +28,22 @@
 ## 📊 GitHub Activity
 
 ### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_ID&theme=flat&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=funky-jun&theme=flat&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📈 GitHub Stats Card
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=funky-jun&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 💬 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funky-jun&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 Contribution Graph
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=react-dark)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=funky-jun&theme=react-dark)
 
 ---
 

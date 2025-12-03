@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Projects I’m Working On
+## 🚀 현재 진행 중인 프로젝트 소개
 
 ### 🔹 **오늘의 하늘**
 - 📌 **한 줄 설명:** 실시간 날씨정보를 제공하는 웹 서비스
@@ -17,7 +17,7 @@
   
 ---
 
-## 🛠️ My Role in the Project
+## 🛠️ 프로젝트에서 맡고 있는 역할
 - 💻 **프론트엔드 개발:** 날씨 배경 이미지 구현
 - 🛰️ **백엔드 개발 (Flask):** 데이터 가공, 엔드포인트 개발, Flask 서버 구현
 - 🎨 **디자인:** 날씨별 동적 배경 이미지 제작
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 현재까지 진행한 GitHub 활동 내역
 
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=funky-jun&theme=flat&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)

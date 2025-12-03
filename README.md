@@ -32,16 +32,6 @@
 
 ---
 
-### 📈 GitHub Stats Card
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=funky-jun&show_icons=true&theme=tokyonight)
-
----
-
-### 💬 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funky-jun&layout=compact&theme=tokyonight)
-
----
-
 ### 🔥 Contribution Graph
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=funky-jun&theme=react-dark)
 

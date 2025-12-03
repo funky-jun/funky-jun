@@ -9,7 +9,7 @@
 
 ## 🚀 Projects I’m Working On
 
-### 🔹 **프로젝트명 1 — (예: Today's Sky Weather Web App)**
+### 🔹 **오늘의 하늘**
 - 📌 **한 줄 설명:** 실시간 날씨정보를 제공하는 웹 서비스
 - 🔗 **GitHub:** [https://github.com/username/project-link](https://github.com/OSS-teamproject-Todays-sky/todays-sky)
 - 🎯 **목적:** 사용자에게 직관적인 날씨 예측 경험 제공  

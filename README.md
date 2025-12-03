@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me 👐
+- MinJun Kwon, Pukung National University, Computer Engineering 22th
+- 
 
 <!--
 **funky-jun/funky-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

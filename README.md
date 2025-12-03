@@ -1,12 +1,11 @@
 ## 👨‍💻 About Me
 - 🎓 **전공:** 컴퓨터•인공지능공학부 22th
 - 💡 **관심 분야:** 웹 개발(Frontend/Backend), IOT 등
-- ⚙️ **기술 스택:** Python, C++, JavaScript, React, Flask, HTML/CSS, Git/GitHub
 - 🌱 **현재 배우고 있는 것:** 네트워크 프로그래밍, 자료구조, 서버 개발 등
 - 📫 **연락처:** kun4275@naver.com
 
 ---
-
+## ⚙️ 기술 스택
 ### 🔧 Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
@@ -21,7 +20,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-### 🛰 Backend & Server
+### 🛰 Backend
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
